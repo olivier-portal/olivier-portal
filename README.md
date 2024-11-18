@@ -87,11 +87,11 @@ With my background in industrial and digital design, I am polyvalent, adaptable 
 
 ### For Harmony-DML :
 <section display="flex">
-<p><img align="center" src="image/design-produit/Amity.jpg" alt="Office desk" width="400" margin="10px" /></p>
-<p><img align="center" src="image/design-produit/2.jpg" alt="Office desk" width="400" /></p>
-<p><img align="center" src="image/design-produit/3.jpg" alt="Office desk" width="400" /> </p>
-<p><img align="center" src="image/design-produit/gamme-box-harmony-komunikube (3).jpg" alt="Office desk" width="400" /></p>
-<p><img align="center" src="image/design-produit/5.jpg" alt="Office desk" width="400" /></p>
+<img align="center" margin="20px" src="image/design-produit/Amity.jpg" alt="Office desk" width="300" padding="10"/>
+<img align="center" src="image/design-produit/2.jpg" alt="Office desk" width="300" />
+<img align="center" src="image/design-produit/3.jpg" alt="Office desk" width="300" />
+<img align="center" src="image/design-produit/gamme-box-harmony-komunikube (3).jpg" alt="Office desk" width="300" />
+<img align="center" src="image/design-produit/5.jpg" alt="Office desk" width="300" />
 </section>
 
 ---
@@ -99,22 +99,21 @@ With my background in industrial and digital design, I am polyvalent, adaptable 
 ### For GK Pro :
 
 <section display="flex">
-<p><img align="center" src="image/design-produit/870-SIG2022.png" alt="Police protection" width="400" margin="10px" /></p>
-<p><img align="center" src="image/design-produit/880.bmp" alt="Police protection" width="400" /> </p>
-<p><img align="center" src="image/design-produit/plaque de cuisses.jpg" alt="Police protection" width="400" /></p>
-<p><img align="center" src="image/design-produit/97000KT.png" alt="Police protection" width="400" /></p>
-<p><img align="center" src="image/design-produit/97000KT-PORTEE.png" alt="Police protection" width="400" /></p>
-<p><img align="center" src="image/design-produit/jambiere1.bmp" alt="Police protection" width="400" /></p>
-<p><img align="center" src="image/design-produit/ROBOCOP-PROTECTION-BRAS.jpg" alt="Police protection" width="400" /></p>
+<img align="center" src="image/design-produit/870-SIG2022.png" alt="Police protection" width="300" margin="10px" />
+<img align="center" src="image/design-produit/880.bmp" alt="Police protection" width="300" />
+<img align="center" src="image/design-produit/plaque de cuisses.jpg" alt="Police protection" width="300" />
+<img align="center" src="image/design-produit/97000KT.png" alt="Police protection" width="300" />
+<img align="center" src="image/design-produit/97000KT-PORTEE.png" alt="Police protection" width="300" />
+<img align="center" src="image/design-produit/jambiere1.bmp" alt="Police protection" width="300" /><img align="center" src="image/design-produit/ROBOCOP-PROTECTION-BRAS.jpg" alt="Police protection" width="300" />
 </section>
 
 ---
 ### For Ancilia :
 <section display="flex">
-<p><img align="center" src="image/design-produit/ancilia.png" alt="Office desk" width="400" margin="10px" /></p>
-<p><img align="center" src="image/design-produit/Ancilia.jpg" alt="Office desk" width="400" /></p>
-<p><img align="center" src="image/design-produit/Ancilia ouvert.jpg" alt="Office desk" width="400" /> </p>
-<p><img align="center" src="image/design-produit/Projet Antarakis.jpg" alt="Office desk" width="400" /> </p>
+<img align="center" src="image/design-produit/ancilia.png" alt="Office desk" width="300" margin="10px" />
+<img align="center" src="image/design-produit/Ancilia.jpg" alt="Office desk" width="300" />
+<img align="center" src="image/design-produit/Ancilia ouvert.jpg" alt="Office desk" width="300" />
+<img align="center" src="image/design-produit/Projet Antarakis.jpg" alt="Office desk" width="300" />
 </section>
 
 ---
@@ -122,12 +121,12 @@ With my background in industrial and digital design, I am polyvalent, adaptable 
 
 ### For different clients :
 <section display="flex">
-<p><img align="center" src="image/graphisme/MOCKUP affiche Halloween.jpg" alt="Graphic design" width="400" margin="10px" /></p>
-<p><img align="center" src="image/graphisme/étiquettes MODIS.png" alt="Graphic design" width="400" /> </p>
-<p><img align="center" src="image/Projets-perso/Bijoutifull.jpg" alt="Graphic design" width="400" /></p>
-<p><img align="center" src="image/web-design/Pictogrammes-3.jpg" alt="Graphic design" width="400" /> </p>
-<p><img align="center" src="image/web-design/Pictogrammes-4.jpg" alt="Graphic design" width="400" /> </p>
-<p><img align="center" src="image/Projets-perso/Ephémères éternités.jpg" alt="Graphic design" width="400" /></p>
+<img align="center" src="image/graphisme/MOCKUP affiche Halloween.jpg" alt="Graphic design" width="300" margin="10px" />
+<img align="center" src="image/graphisme/étiquettes MODIS.png" alt="Graphic design" width="300" />
+<img align="center" src="image/Projets-perso/Bijoutifull.jpg" alt="Graphic design" width="300" />
+<img align="center" src="image/web-design/Pictogrammes-3.jpg" alt="Graphic design" width="300" />
+<img align="center" src="image/web-design/Pictogrammes-4.jpg" alt="Graphic design" width="300" />
+<img align="center" src="image/Projets-perso/Ephémères éternités.jpg" alt="Graphic design" width="300" />
 </section>
 
 ---
@@ -136,11 +135,11 @@ With my background in industrial and digital design, I am polyvalent, adaptable 
 
 ### For different clients :
 <section display="flex">
-<p><img align="center" src="image/web-design/Page-accueil.jpg" alt="Graphic design" width="400" margin="10px" /></p>
-<p><img align="center" src="image/web-design/pages Home Atelier de la peluche.jpg" alt="Graphic design" width="400" /> </p>
-<p><img align="center" src="image/web-design/pages mission Atelier de la peluche.jpg" alt="Graphic design" width="400" /></p>
-<p><img align="center" src="image/web-design/pages 404 Atelier de la peluche.jpg" alt="Graphic design" width="400" /> </p>
-<p><img align="center" src="image/web-design/Momob.org2_.jpg" alt="Graphic design" width="400" /> </p>
+<img align="center" src="image/web-design/Page-accueil.jpg" alt="Graphic design" width="300" margin="10" />
+<img align="center" src="image/web-design/pages Home Atelier de la peluche.jpg" alt="Graphic design" width="300" />
+<img align="center" src="image/web-design/pages mission Atelier de la peluche.jpg" alt="Graphic design" width="300" />
+<img align="center" src="image/web-design/pages 404 Atelier de la peluche.jpg" alt="Graphic design" width="300" />
+<img align="center" src="image/web-design/Momob.org2_.jpg" alt="Graphic design" width="300" />
 </section>
 
 ---
