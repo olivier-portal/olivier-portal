@@ -75,7 +75,13 @@ With my background in industrial and digital design, I am polyvalent, adaptable 
 
 ---
 
-# Design work :
+> *Tout comme le choc de deux notes de musique jouées ensemble donne son élan à un morceau de musique, la discorde de nos pensées, idées et valeurs nous oblige à penser, à réévaluer et critiquer. La cohérence est le terrain de jeu des esprits bornés.*
+
+*Yuval Noah Harari*
+
+---
+
+# Portfolio :
 
 ## Industrial design :
 
@@ -101,8 +107,6 @@ With my background in industrial and digital design, I am polyvalent, adaptable 
 <p><img align="center" src="image/design-produit/jambiere1.bmp" alt="Police protection" width="400" /></p>
 <p><img align="center" src="image/design-produit/ROBOCOP-PROTECTION-BRAS.jpg" alt="Police protection" width="400" /></p>
 </section>
-
----
 
 ---
 ### For Ancilia :
