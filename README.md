@@ -116,3 +116,31 @@ With my background in industrial and digital design, I am polyvalent, adaptable 
 <p><img align="center" src="image/design-produit/Ancilia ouvert.jpg" alt="Office desk" width="400" /> </p>
 <p><img align="center" src="image/design-produit/Projet Antarakis.jpg" alt="Office desk" width="400" /> </p>
 </section>
+
+---
+## Graphic design :
+
+### For different clients :
+<section display="flex">
+<p><img align="center" src="image/graphisme/MOCKUP affiche Halloween.jpg" alt="Graphic design" width="400" margin="10px" /></p>
+<p><img align="center" src="image/graphisme/étiquettes MODIS.png" alt="Graphic design" width="400" /> </p>
+<p><img align="center" src="image/Projets-perso/Bijoutifull.jpg" alt="Graphic design" width="400" /></p>
+<p><img align="center" src="image/web-design/Pictogrammes-3.jpg" alt="Graphic design" width="400" /> </p>
+<p><img align="center" src="image/web-design/Pictogrammes-4.jpg" alt="Graphic design" width="400" /> </p>
+<p><img align="center" src="image/Projets-perso/Ephémères éternités.jpg" alt="Graphic design" width="400" /></p>
+</section>
+
+---
+
+## Web design :
+
+### For different clients :
+<section display="flex">
+<p><img align="center" src="image/web-design/Page-accueil.jpg" alt="Graphic design" width="400" margin="10px" /></p>
+<p><img align="center" src="image/web-design/pages Home Atelier de la peluche.jpg" alt="Graphic design" width="400" /> </p>
+<p><img align="center" src="image/web-design/pages mission Atelier de la peluche.jpg" alt="Graphic design" width="400" /></p>
+<p><img align="center" src="image/web-design/pages 404 Atelier de la peluche.jpg" alt="Graphic design" width="400" /> </p>
+<p><img align="center" src="image/web-design/Momob.org2_.jpg" alt="Graphic design" width="400" /> </p>
+</section>
+
+---
