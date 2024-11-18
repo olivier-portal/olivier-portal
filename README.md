@@ -60,13 +60,7 @@ With my background in industrial and digital design, I am polyvalent, adaptable 
 
 ## Industrial design :
 
-For GK Pro :
-
-![Professional desk](image/design-produit/870-SIG2022.png)
-![Professional desk](image/design-produit/870-SERIES-DOS.png)
-
----
-For Harmony-DML :
+### For Harmony-DML :
 <section display="flex">
 <p><img align="center" src="image/design-produit/1.jpg" alt="Office desk" width="400" margin="10px" /></p>
 <p><img align="center" src="image/design-produit/2.jpg" alt="Office desk" width="400" /></p>
@@ -75,7 +69,32 @@ For Harmony-DML :
 <p><img align="center" src="image/design-produit/5.jpg" alt="Office desk" width="400" /></p>
 </section>
 
+---
 
+### For GK Pro :
+
+<section display="flex">
+<p><img align="center" src="image/design-produit/870-SIG2022.png" alt="Police protection" width="400" margin="10px" /></p>
+<p><img align="center" src="image/design-produit/870-SERIES-DOS.png" alt="Police protection" width="400" /></p>
+<p><img align="center" src="image/design-produit/880.bmp" alt="Police protection" width="400" /> </p>
+<p><img align="center" src="image/design-produit/881glock.png" alt="Police protection" width="400" /></p>
+<p><img align="center" src="image/design-produit/plaque de cuisses.jpg" alt="Police protection" width="400" /></p>
+<p><img align="center" src="image/design-produit/97000KT.png" alt="Police protection" width="400" /></p>
+<p><img align="center" src="image/design-produit/97000KT-PORTEE.png" alt="Police protection" width="400" /></p>
+<p><img align="center" src="image/design-produit/jambiere1.bmp" alt="Police protection" width="400" /></p>
+<p><img align="center" src="image/design-produit/ROBOCOP-DETAIL-JAMBIERES.png" alt="Police protection" width="400" /></p>
+<p><img align="center" src="image/design-produit/ROBOCOP-PROTECTION-BRAS.jpg" alt="Police protection" width="400" /></p>
+</section>
+
+---
+
+---
+### For Ancilia :
+<section display="flex">
+<p><img align="center" src="image/design-produit/ancilia.png" alt="Office desk" width="400" margin="10px" /></p>
+<p><img align="center" src="image/design-produit/Ancilia.jpg" alt="Office desk" width="400" /></p>
+<p><img align="center" src="image/design-produit/Ancilia ouvert.jpg" alt="Office desk" width="400" /> </p>
+</section>
 ---
 
 <h3 align="left">Connect with me:</h3>
