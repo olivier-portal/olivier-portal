@@ -56,6 +56,28 @@ With my background in industrial and digital design, I am polyvalent, adaptable 
 
 ---
 
+# Design work :
+
+## Industrial design :
+
+For GK Pro :
+
+![Professional desk](image/design-produit/870-SIG2022.png)
+![Professional desk](image/design-produit/870-SERIES-DOS.png)
+
+---
+For Harmony-DML :
+<section display="flex">
+<p><img align="center" src="image/design-produit/1.jpg" alt="Office desk" width="400" margin="10px" /></p>
+<p><img align="center" src="image/design-produit/2.jpg" alt="Office desk" width="400" /></p>
+<p><img align="center" src="image/design-produit/3.jpg" alt="Office desk" width="400" /> </p>
+<p><img align="center" src="image/design-produit/4.jpg" alt="Office desk" width="400" /></p>
+<p><img align="center" src="image/design-produit/5.jpg" alt="Office desk" width="400" /></p>
+</section>
+
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/olivier-portal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/olivier-portal/" height="30" width="40" /></a>
