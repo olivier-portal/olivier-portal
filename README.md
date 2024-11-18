@@ -1,4 +1,6 @@
-## Hello world ! 👋
+<h1 align="center">Hello world ! 👋</h1>
+
+<h3 align="center">Walking on the path to cybersecurity</h3>
 
 <!--
 **olivier-portal/olivier-portal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![MasterHead](image/banner.png)](https://github.com/olivier-portal)
-
-<h1 align="center">Hi 👋, I'm Olivier</h1>
-<h3 align="center">A passionate pentester in making from France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olivier-portal&label=Profile%20views&color=0e75b6&style=flat" alt="olivier-portal" /> </p>
 
