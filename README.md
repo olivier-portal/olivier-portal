@@ -87,11 +87,11 @@ With my background in industrial and digital design, I am polyvalent, adaptable 
 
 ### For Harmony-DML :
 <section display="flex">
-<img align="center" src="image/design-produit/Amity.jpg" alt="Office desk" width="300" style="margin-right: 5px; margin-bottom: 5px"/>
-<img align="center" src="image/design-produit/2.jpg" alt="Office desk" width="300" />
-<img align="center" src="image/design-produit/3.jpg" alt="Office desk" width="300" />
-<img align="center" src="image/design-produit/gamme-box-harmony-komunikube (3).jpg" alt="Office desk" width="300" />
-<img align="center" src="image/design-produit/5.jpg" alt="Office desk" width="300" />
+<img align="center" src="image/design-produit/Amity.jpg" alt="Office desk" height="300"/>
+<img align="center" src="image/design-produit/2.jpg" alt="Office desk" height="300" />
+<img align="center" src="image/design-produit/3.jpg" alt="Office desk" height="300" />
+<img align="center" src="image/design-produit/gamme-box-harmony-komunikube (3).jpg" alt="Office desk" height="300" />
+<img align="center" src="image/design-produit/5.jpg" alt="Office desk" height="300" />
 </section>
 
 ---
@@ -99,21 +99,20 @@ With my background in industrial and digital design, I am polyvalent, adaptable 
 ### For GK Pro :
 
 <section display="flex">
-<img align="center" src="image/design-produit/870-SIG2022.png" alt="Police protection" width="300" margin="10px" />
-<img align="center" src="image/design-produit/880.bmp" alt="Police protection" width="300" />
-<img align="center" src="image/design-produit/plaque de cuisses.jpg" alt="Police protection" width="300" />
-<img align="center" src="image/design-produit/97000KT.png" alt="Police protection" width="300" />
-<img align="center" src="image/design-produit/97000KT-PORTEE.png" alt="Police protection" width="300" />
-<img align="center" src="image/design-produit/jambiere1.bmp" alt="Police protection" width="300" /><img align="center" src="image/design-produit/ROBOCOP-PROTECTION-BRAS.jpg" alt="Police protection" width="300" />
+<img align="center" src="image/design-produit/870-SIG2022.png" alt="Police protection" height="300" margin="10px" />
+<img align="center" src="image/design-produit/880.bmp" alt="Police protection" height="300" />
+<img align="center" src="image/design-produit/plaque de cuisses.jpg" alt="Police protection" height="300" />
+<img align="center" src="image/design-produit/97000KT.png" alt="Police protection" height="300" />
+<img align="center" src="image/design-produit/97000KT-PORTEE.png" alt="Police protection" height="300" />
+<img align="center" src="image/design-produit/jambiere1.bmp" alt="Police protection" height="300" /><img align="center" src="image/design-produit/ROBOCOP-PROTECTION-BRAS.jpg" alt="Police protection" height="300" />
 </section>
 
 ---
 ### For Ancilia :
 <section display="flex">
-<img align="center" src="image/design-produit/ancilia.png" alt="Office desk" width="300" margin="10px" />
-<img align="center" src="image/design-produit/Ancilia.jpg" alt="Office desk" width="300" />
-<img align="center" src="image/design-produit/Ancilia ouvert.jpg" alt="Office desk" width="300" />
-<img align="center" src="image/design-produit/Projet Antarakis.jpg" alt="Office desk" width="300" />
+<img align="center" src="image/design-produit/Ancilia.jpg" alt="Office desk" height="300" />
+<img align="center" src="image/design-produit/Ancilia ouvert.jpg" alt="Office desk" height="300" />
+<img align="center" src="image/design-produit/Projet Antarakis.jpg" alt="Office desk" height="300" />
 </section>
 
 ---
@@ -121,12 +120,12 @@ With my background in industrial and digital design, I am polyvalent, adaptable 
 
 ### For different clients :
 <section display="flex">
-<img align="center" src="image/graphisme/MOCKUP affiche Halloween.jpg" alt="Graphic design" width="300" margin="10px" />
-<img align="center" src="image/graphisme/étiquettes MODIS.png" alt="Graphic design" width="300" />
-<img align="center" src="image/Projets-perso/Bijoutifull.jpg" alt="Graphic design" width="300" />
-<img align="center" src="image/web-design/Pictogrammes-3.jpg" alt="Graphic design" width="300" />
-<img align="center" src="image/web-design/Pictogrammes-4.jpg" alt="Graphic design" width="300" />
-<img align="center" src="image/Projets-perso/Ephémères éternités.jpg" alt="Graphic design" width="300" />
+<img align="center" src="image/graphisme/MOCKUP affiche Halloween.jpg" alt="Graphic design" height="300" margin="10px" />
+<img align="center" src="image/graphisme/étiquettes MODIS.png" alt="Graphic design" height="300" />
+<img align="center" src="image/Projets-perso/Bijoutifull.jpg" alt="Graphic design" height="300" />
+<img align="center" src="image/web-design/Pictogrammes-3.jpg" alt="Graphic design" height="300" />
+<img align="center" src="image/web-design/Pictogrammes-4.jpg" alt="Graphic design" height="300" />
+<img align="center" src="image/Projets-perso/Ephémères éternités.jpg" alt="Graphic design" height="300" />
 </section>
 
 ---
