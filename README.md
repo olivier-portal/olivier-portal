@@ -42,20 +42,6 @@ With my background in industrial and digital design, I am polyvalent, adaptable 
 
 ---
 
-- 🌱 I’m currently learning cybersecurity at La plateforme, Marseille, France
-
-- 👨‍💻 All of my projects are available at [https://www.design-portal.fr/](https://www.design-portal.fr/)
-
-- 📫 How to reach me **olivier.portal@laplateforme.io**
-
-- 😄 Nicknames : Oliv' / Lol / Dad d'amour
-
-- ⚡ Fun fact: Since I bought my first Raspberry Pi I'm transforming my home into a smart one 😄 .... Next project : making a smart touch screen mirror !!!
-
-[![smart touch screen mirror with a Raspberry Pi](image/smarttouch-mirror.png "Smart touch screen mirror")](https://smartbuilds.io/smart-mirror-touchscreen-raspberry-pi/)
-
----
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/olivier-portal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/olivier-portal/" height="30" width="40" /></a>
@@ -78,6 +64,20 @@ With my background in industrial and digital design, I am polyvalent, adaptable 
 > *Tout comme le choc de deux notes de musique jouées ensemble donne son élan à un morceau de musique, la discorde de nos pensées, idées et valeurs nous oblige à penser, à réévaluer et critiquer. La cohérence est le terrain de jeu des esprits bornés.*
 
 *Yuval Noah Harari*
+
+---
+
+- 🌱 I’m currently learning cybersecurity at La plateforme, Marseille, France
+
+- 👨‍💻 All of my projects are available at [https://www.design-portal.fr/](https://www.design-portal.fr/)
+
+- 📫 How to reach me **olivier.portal@laplateforme.io**
+
+- 😄 Nicknames : Oliv' / Lol / Dad d'amour
+
+- ⚡ Fun fact: Since I bought my first Raspberry Pi I'm transforming my home into a smart one 😄 .... Next project : making a smart touch screen mirror !!!
+
+[![smart touch screen mirror with a Raspberry Pi](image/smarttouch-mirror.png "Smart touch screen mirror")](https://smartbuilds.io/smart-mirror-touchscreen-raspberry-pi/)
 
 ---
 
