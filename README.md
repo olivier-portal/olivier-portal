@@ -87,7 +87,7 @@ With my background in industrial and digital design, I am polyvalent, adaptable 
 
 ### For Harmony-DML :
 <section display="flex">
-<img align="center" margin="20px" src="image/design-produit/Amity.jpg" alt="Office desk" width="300" padding="10"/>
+<img align="center" src="image/design-produit/Amity.jpg" alt="Office desk" width="300" style="margin= 10px;"/>
 <img align="center" src="image/design-produit/2.jpg" alt="Office desk" width="300" />
 <img align="center" src="image/design-produit/3.jpg" alt="Office desk" width="300" />
 <img align="center" src="image/design-produit/gamme-box-harmony-komunikube (3).jpg" alt="Office desk" width="300" />
