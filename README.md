@@ -50,7 +50,7 @@ With my background in industrial and digital design, I am polyvalent, adaptable 
 
 - ⚡ Fun fact: Since I bought my first Raspberry Pi I'm transforming my home into a smart one 😄 .... Next project making a smart touch screen mirror !!!
 
-![image](image/smarttouch-mirror.png "Smart touch screen mirror")[lien](https://smartbuilds.io/smart-mirror-touchscreen-raspberry-pi/)
+![image](image/smarttouch-mirror.png "Smart touch screen mirror")(https://smartbuilds.io/smart-mirror-touchscreen-raspberry-pi/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
