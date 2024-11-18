@@ -61,7 +61,7 @@ With my background in industrial and digital design, I am polyvalent, adaptable 
 
 ---
 
-> *Tout comme le choc de deux notes de musique jouées ensemble donne son élan à un morceau de musique, la discorde de nos pensées, idées et valeurs nous oblige à penser, à réévaluer et critiquer. La cohérence est le terrain de jeu des esprits bornés.*
+> *"Just as when two clashing musical notes played together force a piece of music forward, so discord in our thoughts, ideas and values compel us to think, re-evaluate and criticise. Consistency is the playground of dull minds."*
 
 *Yuval Noah Harari*
 
