@@ -56,47 +56,6 @@ With my background in industrial and digital design, I am polyvalent, adaptable 
 
 ---
 
-# Design work :
-
-## Industrial design :
-
-### For Harmony-DML :
-<section display="flex">
-<p><img align="center" src="image/design-produit/1.jpg" alt="Office desk" width="400" margin="10px" /></p>
-<p><img align="center" src="image/design-produit/2.jpg" alt="Office desk" width="400" /></p>
-<p><img align="center" src="image/design-produit/3.jpg" alt="Office desk" width="400" /> </p>
-<p><img align="center" src="image/design-produit/4.jpg" alt="Office desk" width="400" /></p>
-<p><img align="center" src="image/design-produit/5.jpg" alt="Office desk" width="400" /></p>
-</section>
-
----
-
-### For GK Pro :
-
-<section display="flex">
-<p><img align="center" src="image/design-produit/870-SIG2022.png" alt="Police protection" width="400" margin="10px" /></p>
-<p><img align="center" src="image/design-produit/870-SERIES-DOS.png" alt="Police protection" width="400" /></p>
-<p><img align="center" src="image/design-produit/880.bmp" alt="Police protection" width="400" /> </p>
-<p><img align="center" src="image/design-produit/881glock.png" alt="Police protection" width="400" /></p>
-<p><img align="center" src="image/design-produit/plaque de cuisses.jpg" alt="Police protection" width="400" /></p>
-<p><img align="center" src="image/design-produit/97000KT.png" alt="Police protection" width="400" /></p>
-<p><img align="center" src="image/design-produit/97000KT-PORTEE.png" alt="Police protection" width="400" /></p>
-<p><img align="center" src="image/design-produit/jambiere1.bmp" alt="Police protection" width="400" /></p>
-<p><img align="center" src="image/design-produit/ROBOCOP-DETAIL-JAMBIERES.png" alt="Police protection" width="400" /></p>
-<p><img align="center" src="image/design-produit/ROBOCOP-PROTECTION-BRAS.jpg" alt="Police protection" width="400" /></p>
-</section>
-
----
-
----
-### For Ancilia :
-<section display="flex">
-<p><img align="center" src="image/design-produit/ancilia.png" alt="Office desk" width="400" margin="10px" /></p>
-<p><img align="center" src="image/design-produit/Ancilia.jpg" alt="Office desk" width="400" /></p>
-<p><img align="center" src="image/design-produit/Ancilia ouvert.jpg" alt="Office desk" width="400" /> </p>
-</section>
----
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/olivier-portal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/olivier-portal/" height="30" width="40" /></a>
@@ -113,3 +72,43 @@ With my background in industrial and digital design, I am polyvalent, adaptable 
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=olivier-portal&show_icons=true&locale=en&layout=compact&theme=radical" alt="olivier-portal" /></p>
+
+---
+
+# Design work :
+
+## Industrial design :
+
+### For Harmony-DML :
+<section display="flex">
+<p><img align="center" src="image/design-produit/Amity.jpg" alt="Office desk" width="400" margin="10px" /></p>
+<p><img align="center" src="image/design-produit/2.jpg" alt="Office desk" width="400" /></p>
+<p><img align="center" src="image/design-produit/3.jpg" alt="Office desk" width="400" /> </p>
+<p><img align="center" src="image/design-produit/gamme-box-harmony-komunikube (3).jpg" alt="Office desk" width="400" /></p>
+<p><img align="center" src="image/design-produit/5.jpg" alt="Office desk" width="400" /></p>
+</section>
+
+---
+
+### For GK Pro :
+
+<section display="flex">
+<p><img align="center" src="image/design-produit/870-SIG2022.png" alt="Police protection" width="400" margin="10px" /></p>
+<p><img align="center" src="image/design-produit/880.bmp" alt="Police protection" width="400" /> </p>
+<p><img align="center" src="image/design-produit/plaque de cuisses.jpg" alt="Police protection" width="400" /></p>
+<p><img align="center" src="image/design-produit/97000KT.png" alt="Police protection" width="400" /></p>
+<p><img align="center" src="image/design-produit/97000KT-PORTEE.png" alt="Police protection" width="400" /></p>
+<p><img align="center" src="image/design-produit/jambiere1.bmp" alt="Police protection" width="400" /></p>
+<p><img align="center" src="image/design-produit/ROBOCOP-PROTECTION-BRAS.jpg" alt="Police protection" width="400" /></p>
+</section>
+
+---
+
+---
+### For Ancilia :
+<section display="flex">
+<p><img align="center" src="image/design-produit/ancilia.png" alt="Office desk" width="400" margin="10px" /></p>
+<p><img align="center" src="image/design-produit/Ancilia.jpg" alt="Office desk" width="400" /></p>
+<p><img align="center" src="image/design-produit/Ancilia ouvert.jpg" alt="Office desk" width="400" /> </p>
+<p><img align="center" src="image/design-produit/Projet Antarakis.jpg" alt="Office desk" width="400" /> </p>
+</section>
