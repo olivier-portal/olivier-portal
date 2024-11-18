@@ -134,11 +134,11 @@ With my background in industrial and digital design, I am polyvalent, adaptable 
 
 ### For different clients :
 <section display="flex">
-<img align="center" src="image/web-design/Page-accueil.jpg" alt="Graphic design" width="300" style= "margin: 5vw" />
-<img align="center" src="image/web-design/pages Home Atelier de la peluche.jpg" alt="Graphic design" width="300" style= "margin: 5vw" />
-<img align="center" src="image/web-design/pages mission Atelier de la peluche.jpg" alt="Graphic design" width="300" style= "margin: 5vw" />
-<img align="center" src="image/web-design/pages 404 Atelier de la peluche.jpg" alt="Graphic design" width="300" style= "margin: 5vw" />
-<img align="center" src="image/web-design/Momob.org2_.jpg" alt="Graphic design" width="300" style= "margin: 5vw" />
+<img align="center" src="image/web-design/Page-accueil.jpg" alt="Graphic design" height="300" style= "margin: 5vw" />
+<img align="center" src="image/web-design/pages Home Atelier de la peluche.jpg" alt="Graphic design" height="300" style= "margin: 5vw" />
+<img align="center" src="image/web-design/pages mission Atelier de la peluche.jpg" alt="Graphic design" height="300" style= "margin: 5vw" />
+<img align="center" src="image/web-design/pages 404 Atelier de la peluche.jpg" alt="Graphic design" height="300" style= "margin: 5vw" />
+<img align="center" src="image/web-design/Momob.org2_.jpg" alt="Graphic design" height="300" style= "margin: 5vw" />
 </section>
 
 ---
