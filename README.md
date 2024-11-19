@@ -121,7 +121,7 @@ With my background in industrial and digital design, I am polyvalent, adaptable 
 ### For citynox :
 <section display="flex">
 <img align="center" src="image/architecture/iconic-1-1-1024x683.jpg" alt="Graphic design" height="200" style= "margin-right: 5vw; margin-bottom: 5vh"  />
-<img align="center" src="image/architecture/ICONIC1.jpg
+<img align="center" src="image/architecture/ICONIC.jpg
 " alt="Graphic design" height="200" style= "margin: 5vw" />
 <img align="center" src="image/architecture/ICONIC2.jpg" alt="Graphic design" height="200" style= "margin-right: 5vw; margin-bottom: 5vh" />
 <img align="center" src="image/architecture/ICONIC3.jpg" alt="Graphic design" height="200" style= "margin-right: 5vw; margin-bottom: 5vh" />
