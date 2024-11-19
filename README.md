@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 With solid experience as an industrial designer, graphic designer, and web designer, I have always been involved in creating aesthetic and functional solutions. Every project I undertake is guided by a passion for detail and innovation, combining creativity and pragmatism to meet the needs of clients and users.
 
-## <span style="color:#D34591;">A new path towards cybersecurity
+## <span style="color:#D34591;">A new path towards cybersecurity</span>
 
 Recently, I decided to take on a new challenge by resuming my studies in the field of IT, with a specialization in cybersecurity. This transition is motivated by my fascination with new technologies and the growing need to protect data in a digitalized world. This choice enriches my career as a designer with a unique perspective, combining security and design.
 
