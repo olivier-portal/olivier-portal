@@ -22,21 +22,21 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=olivier-portal" alt="olivier-portal" /></a> </p>
 
-# My story :
+# <span style="color:#ff7b72">My story :
 
-## Carrer and passion for design
+## <span style="color:#d34591">Carrer and passion for design
 
 With solid experience as an industrial designer, graphic designer, and web designer, I have always been involved in creating aesthetic and functional solutions. Every project I undertake is guided by a passion for detail and innovation, combining creativity and pragmatism to meet the needs of clients and users.
 
-## A new path towards cybersecurity
+## <span style="color:#d34591">A new path towards cybersecurity
 
 Recently, I decided to take on a new challenge by resuming my studies in the field of IT, with a specialization in cybersecurity. This transition is motivated by my fascination with new technologies and the growing need to protect data in a digitalized world. This choice enriches my career as a designer with a unique perspective, combining security and design.
 
-## Objective: a work-study program to combine theory and practice
+## <span style="color:#d34591">Objective: a work-study program to combine theory and practice
 
 Currently in the first year of an IT bachelor's degree specializing in cybersecurity, I am looking for a work-study program lasting one week in school and four weeks in a company. This experience would allow me to put my cybersecurity skills into practice, while benefiting from the support and advice of experts in the sector. Working in a company would also strengthen my understanding of security issues for real projects and allow me to make my contribution from the start of my training.
 
-## A polyvalent profile ready to invest
+## <span style="color:#d34591">A polyvalent profile ready to invest
 
 With my background in industrial and digital design, I am polyvalent, adaptable and passionate about innovation. I bring a unique perspective that combines a developed aesthetic sense with a rigorous approach to IT security issues. By joining your team, I am ready to fully invest in bringing my skills to the table, while developing my expertise in a stimulating professional environment.
 
