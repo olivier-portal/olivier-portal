@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=olivier-portal" alt="olivier-portal" /></a> </p>
 
-# <span style="color: #ff7b72;">*#ff7b72*My story :</span>
+# <span style="color:#FF7B72;">My story :</span>
 
-## <span style="color:#d34591">Carrer and passion for design
+## <span style="color:#D34591">Carrer and passion for design
 
 With solid experience as an industrial designer, graphic designer, and web designer, I have always been involved in creating aesthetic and functional solutions. Every project I undertake is guided by a passion for detail and innovation, combining creativity and pragmatism to meet the needs of clients and users.
 
-## <span style="color:#d34591">A new path towards cybersecurity
+## <span style="color:#D34591">A new path towards cybersecurity
 
 Recently, I decided to take on a new challenge by resuming my studies in the field of IT, with a specialization in cybersecurity. This transition is motivated by my fascination with new technologies and the growing need to protect data in a digitalized world. This choice enriches my career as a designer with a unique perspective, combining security and design.
 
