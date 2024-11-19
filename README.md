@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=olivier-portal" alt="olivier-portal" /></a> </p>
 
-# <span color="#ff7b72;">My story :</span>
+# <font color=#ff7b72>My story :</font>
 
-## <span style="color:#D34591;">Carrer and passion for design
+## <font color=#D34591>Carrer and passion for design</font>
 
 With solid experience as an industrial designer, graphic designer, and web designer, I have always been involved in creating aesthetic and functional solutions. Every project I undertake is guided by a passion for detail and innovation, combining creativity and pragmatism to meet the needs of clients and users.
 
