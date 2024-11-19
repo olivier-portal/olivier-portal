@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=olivier-portal" alt="olivier-portal" /></a> </p>
 
-# <span style="color: #ff7b72;">My story :</span>
+# <span style="color: #ff7b72;">*#ff7b72*My story :</span>
 
 ## <span style="color:#d34591">Carrer and passion for design
 
