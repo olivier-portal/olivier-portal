@@ -69,7 +69,7 @@ With my background in industrial and digital design, I am polyvalent, adaptable 
 
 - 🌱 I’m currently learning cybersecurity at La plateforme, Marseille, France
 
-- 👨‍💻 All of my projects are available at [https://www.design-portal.fr/](https://www.design-portal.fr/)
+- 👨‍💻 All of my design projects from my old jobs are available at [https://www.design-portal.fr/](https://www.design-portal.fr/)
 
 - 📫 How to reach me **olivier.portal@laplateforme.io**
 
