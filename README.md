@@ -71,9 +71,9 @@ With my background in industrial and digital design, I am polyvalent, adaptable 
 
 - 👨‍💻 All of my design projects from my old jobs are available at [https://www.design-portal.fr/](https://www.design-portal.fr/)
 
-- 📫 How to reach me **olivier.portal@laplateforme.io**
+- 😄 All of my projects from my new job are available (lots to come) at [https://olivier-portal.github.io/cyber-portal/](https://olivier-portal.github.io/cyber-portal/)
 
-- 😄 Nicknames : Oliv' / Lol / Dad d'amour
+- 📫 How to reach me **olivier.portal@laplateforme.io**
 
 - ⚡ Fun fact: Since I bought my first Raspberry Pi I'm transforming my home into a smart one 😄 .... Next project : making a smart touch screen mirror !!!
 
