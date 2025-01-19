@@ -1,6 +1,6 @@
-<h1 align="center">Hello world ! 👋</h1>
+<h1 style="align: center">Hello world ! 👋</h1>
 
-<h3 align="center">Walking on the path to immersive systems (VR/AR/MR/XR)</h3>
+<h3 style="align: center">Walking on the path to immersive systems (VR/AR/MR/XR)</h3>
 
 <!--
 **olivier-portal/olivier-portal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=olivier-portal" alt="olivier-portal" /></a> </p>
 
-# <font color=#ff7b72>My story :</font>
+# <span style="color: #ff7b72">My story :</span>
 
-## <font color=#D34591>Carrer and passion for design</font>
+## <span style="color: #D34591">Carrer and passion for design</span>
 
 With solid experience as an industrial designer, graphic designer, and web designer, I have always been involved in creating aesthetic and functional solutions. Every project I undertake is guided by a passion for detail and innovation, combining creativity and pragmatism to meet the needs of clients and users.
 
@@ -42,22 +42,22 @@ With my background in industrial and digital design, I am versatile, adaptable, 
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/olivier-portal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/olivier-portal/" height="30" width="40" /></a>
+<h3 style="align: left">Connect with me:</h3>
+<p style="align: left">
+<a href="https://www.linkedin.com/in/olivier-portal/" target="blank"><img style="align: center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/olivier-portal/" height="30" width="40" /></a>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="image/python.png" alt="python" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="image/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="image/illustrator.png" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="image/photoshop.png" alt="photoshop" width="40" height="40"/> </a><a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="image/xd.png" alt="xd" width="40" height="40"/> </a> <a href="https://en.m.wikipedia.org/wiki/File:Visual_Studio_Code_1.35_icon.svg" target="_blank" rel="noreferrer"> <img src="image/Visual_Studio_Code_1.35_icon.svg" alt="visual studio code" width="40" height="40"/> </a> <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"> <img src="image/raspberry-pi.png" alt="raspberry pi" width="40" height="40"/> </a> </p>
+<h3 style="align: left">Languages and Tools:</h3>
+<p style="align: left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="image/python.png" alt="python" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="image/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="image/illustrator.png" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="image/photoshop.png" alt="photoshop" width="40" height="40"/> </a><a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="image/xd.png" alt="xd" width="40" height="40"/> </a> <a href="https://en.m.wikipedia.org/wiki/File:Visual_Studio_Code_1.35_icon.svg" target="_blank" rel="noreferrer"> <img src="image/Visual_Studio_Code_1.35_icon.svg" alt="visual studio code" width="40" height="40"/> </a> <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"> <img src="image/raspberry-pi.png" alt="raspberry pi" width="40" height="40"/> </a> </p>
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=olivier-portal&show_icons=true&locale=en&layout=compact&theme=radical" alt="olivier-portal" /></p>
+<p><img style="align: left" src="https://github-readme-stats.vercel.app/api/top-langs?username=olivier-portal&show_icons=true&locale=en&layout=compact&theme=radical" alt="olivier-portal" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=olivier-portal&show_icons=true&locale=en&layout=compact&theme=radical" alt="olivier-portal" /></p>
+<p>&nbsp;<img style="align: left" src="https://github-readme-stats.vercel.app/api?username=olivier-portal&show_icons=true&locale=en&layout=compact&theme=radical" alt="olivier-portal" /></p>
 
 ---
 
@@ -87,11 +87,11 @@ With my background in industrial and digital design, I am versatile, adaptable, 
 
 ### For Harmony-DML :
 <section display="flex">
-<img align="center" src="image/design-produit/Amity.jpg" alt="Office desk" height="200" style= "margin: 5%" />
-<img align="center" src="image/design-produit/2.jpg" alt="Office desk" height="200" style= "margin: 5vw" />
-<img align="center" src="image/design-produit/3.jpg" alt="Office desk" height="200" style= "margin: 5vw" />
-<img align="center" src="image/design-produit/gamme-box-harmony-komunikube (3).jpg" alt="Office desk" height="200" style= "margin: 5vw" />
-<img align="center" src="image/design-produit/5.jpg" alt="Office desk" height="200" style= "margin: 5vw" />
+<img style="align: center" src="image/design-produit/Amity.jpg" alt="Office desk" height="200" style= "margin: 5%" />
+<img style="align: center" src="image/design-produit/2.jpg" alt="Office desk" height="200" style= "margin: 5vw" />
+<img astyle="align: center" src="image/design-produit/3.jpg" alt="Office desk" height="200" style= "margin: 5vw" />
+<img style="align: center" src="image/design-produit/gamme-box-harmony-komunikube (3).jpg" alt="Office desk" height="200" style= "margin: 5vw" />
+<img style="align: center" src="image/design-produit/5.jpg" alt="Office desk" height="200" style= "margin: 5vw" />
 </section>
 
 ---
@@ -99,20 +99,20 @@ With my background in industrial and digital design, I am versatile, adaptable, 
 ### For GK Pro :
 
 <section display="flex">
-<img align="center" src="image/design-produit/870-SIG2022.png" alt="Police protection" height="200" style= "margin: 5vw" />
-<img align="center" src="image/design-produit/880.bmp" alt="Police protection" height="200" style= "margin: 5vw" />
-<img align="center" src="image/design-produit/plaque de cuisses.jpg" alt="Police protection" height="200" style= "margin: 5vw" />
-<img align="center" src="image/design-produit/97000KT.png" alt="Police protection" height="200" style= "margin: 5vw" />
-<img align="center" src="image/design-produit/97000KT-PORTEE.png" alt="Police protection" height="200" />
-<img align="center" src="image/design-produit/jambiere1.bmp" alt="Police protection" height="200" style= "margin: 5vw" /><img align="center" src="image/design-produit/ROBOCOP-PROTECTION-BRAS.jpg" alt="Police protection" height="200" style= "margin: 5vw" />
+<img style="align: center" src="image/design-produit/870-SIG2022.png" alt="Police protection" height="200" style= "margin: 5vw" />
+<img style="align: center" src="image/design-produit/880.bmp" alt="Police protection" height="200" style= "margin: 5vw" />
+<img style="align: center" src="image/design-produit/plaque de cuisses.jpg" alt="Police protection" height="200" style= "margin: 5vw" />
+<img style="align: center" src="image/design-produit/97000KT.png" alt="Police protection" height="200" style= "margin: 5vw" />
+<img style="align: center" src="image/design-produit/97000KT-PORTEE.png" alt="Police protection" height="200" />
+<img style="align: center" src="image/design-produit/jambiere1.bmp" alt="Police protection" height="200" style= "margin: 5vw" /><img style="align: center" src="image/design-produit/ROBOCOP-PROTECTION-BRAS.jpg" alt="Police protection" height="200" style= "margin: 5vw" />
 </section>
 
 ---
 ### For Ancilia :
 <section display="flex">
-<img align="center" src="image/design-produit/Ancilia.jpg" alt="Office desk" height="200" style= "margin: 5vw" />
-<img align="center" src="image/design-produit/Ancilia ouvert.jpg" alt="Office desk" height="200" style= "margin: 5vw" />
-<img align="center" src="image/design-produit/Projet Antarakis.jpg" alt="Office desk" height="200" style= "margin: 5vw" />
+<img style="align: center" src="image/design-produit/Ancilia.jpg" alt="Office desk" height="200" style= "margin: 5vw" />
+<img style="align: center" src="image/design-produit/Ancilia ouvert.jpg" alt="Office desk" height="200" style= "margin: 5vw" />
+<img style="align: center" src="image/design-produit/Projet Antarakis.jpg" alt="Office desk" height="200" style= "margin: 5vw" />
 </section>
 
 ---
@@ -120,12 +120,12 @@ With my background in industrial and digital design, I am versatile, adaptable, 
 
 ### For citynox :
 <section display="flex">
-<img align="center" src="image/architecture/iconic-1-1-1024x683.jpg" alt="Citynox" height="200" style= "margin-right: 5vw; margin-bottom: 5vh"  />
-<img align="center" src="image/architecture/ICONIC.jpg" alt="Citynox" height="200" style= "margin: 5vw" />
-<img align="center" src="image/architecture/ICONIC2.jpg" alt="Citynox" height="200" style= "margin-right: 5vw; margin-bottom: 5vh" />
-<img align="center" src="image/architecture/ICONIC3.jpg" alt="Citynox" height="200" style= "margin-right: 5vw; margin-bottom: 5vh" />
-<img align="center" src="image/architecture/A1.jpg" alt="Citynox" height="200" style= "margin-right: 5vw; margin-bottom: 5vh" />
-<img align="center" src="image/architecture/A2.jpg" alt="Citynox" height="200" style= "margin-right: 5vw; margin-bottom: 5vh" />
+<img style="align: center" src="image/architecture/iconic-1-1-1024x683.jpg" alt="Citynox" height="200" style= "margin-right: 5vw; margin-bottom: 5vh"  />
+<img style="align: center" src="image/architecture/ICONIC.jpg" alt="Citynox" height="200" style= "margin: 5vw" />
+<img style="align: center" src="image/architecture/ICONIC2.jpg" alt="Citynox" height="200" style= "margin-right: 5vw; margin-bottom: 5vh" />
+<img style="align: center" src="image/architecture/ICONIC3.jpg" alt="Citynox" height="200" style= "margin-right: 5vw; margin-bottom: 5vh" />
+<img style="align: center" src="image/architecture/A1.jpg" alt="Citynox" height="200" style= "margin-right: 5vw; margin-bottom: 5vh" />
+<img style="align: center" src="image/architecture/A2.jpg" alt="Citynox" height="200" style= "margin-right: 5vw; margin-bottom: 5vh" />
 </section>
 
 ---
@@ -133,12 +133,12 @@ With my background in industrial and digital design, I am versatile, adaptable, 
 
 ### For different clients :
 <section display="flex">
-<img align="center" src="image/graphisme/MOCKUP affiche Halloween.jpg" alt="Graphic design" height="200" style= "margin: 5vw"  />
-<img align="center" src="image/graphisme/étiquettes MODIS.png" alt="Graphic design" height="200" style= "margin: 5vw" />
-<img align="center" src="image/Projets-perso/Bijoutifull.jpg" alt="Graphic design" height="200" style= "margin: 5vw" />
-<img align="center" src="image/web-design/Pictogrammes-3.jpg" alt="Graphic design" height="200" style= "margin: 5vw" />
-<img align="center" src="image/web-design/Pictogrammes-4.jpg" alt="Graphic design" height="200" style= "margin: 5vw" />
-<img align="center" src="image/Projets-perso/Ephémères éternités.jpg" alt="Graphic design" height="200" style= "margin: 5vw" />
+<img style="align: center" src="image/graphisme/MOCKUP affiche Halloween.jpg" alt="Graphic design" height="200" style= "margin: 5vw"  />
+<img style="align: center" src="image/graphisme/étiquettes MODIS.png" alt="Graphic design" height="200" style= "margin: 5vw" />
+<img style="align: center" src="image/Projets-perso/Bijoutifull.jpg" alt="Graphic design" height="200" style= "margin: 5vw" />
+<img style="align: center" src="image/web-design/Pictogrammes-3.jpg" alt="Graphic design" height="200" style= "margin: 5vw" />
+<img style="align: center" src="image/web-design/Pictogrammes-4.jpg" alt="Graphic design" height="200" style= "margin: 5vw" />
+<img style="align: center" src="image/Projets-perso/Ephémères éternités.jpg" alt="Graphic design" height="200" style= "margin: 5vw" />
 </section>
 
 ---
@@ -147,11 +147,11 @@ With my background in industrial and digital design, I am versatile, adaptable, 
 
 ### For different clients :
 <section display="flex">
-<img align="center" src="image/web-design/Page-accueil.jpg" alt="Graphic design" height="300" style= "margin: 5vw" />
-<img align="center" src="image/web-design/pages Home Atelier de la peluche.jpg" alt="Graphic design" height="300" style= "margin: 5vw" />
-<img align="center" src="image/web-design/pages mission Atelier de la peluche.jpg" alt="Graphic design" height="300" style= "margin: 5vw" />
-<img align="center" src="image/web-design/pages 404 Atelier de la peluche.jpg" alt="Graphic design" height="300" style= "margin: 5vw" />
-<img align="center" src="image/web-design/Momob.org2_.jpg" alt="Graphic design" height="300" style= "margin: 5vw" />
+<img style="align: center" src="image/web-design/Page-accueil.jpg" alt="Graphic design" height="300" style= "margin: 5vw" />
+<img style="align: center" src="image/web-design/pages Home Atelier de la peluche.jpg" alt="Graphic design" height="300" style= "margin: 5vw" />
+<img style="align: center" src="image/web-design/pages mission Atelier de la peluche.jpg" alt="Graphic design" height="300" style= "margin: 5vw" />
+<img style="align: center" src="image/web-design/pages 404 Atelier de la peluche.jpg" alt="Graphic design" height="300" style= "margin: 5vw" />
+<img style="align: center" src="image/web-design/Momob.org2_.jpg" alt="Graphic design" height="300" style= "margin: 5vw" />
 </section>
 
 ---
