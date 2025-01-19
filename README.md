@@ -44,7 +44,7 @@ With my background in industrial and digital design, I am versatile, adaptable, 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/olivier-portal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/olivier-portal/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/olivier-portal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/olivier-portal/" height="30" width="40" /></a>
 </p>
 
 ---
@@ -69,11 +69,11 @@ With my background in industrial and digital design, I am versatile, adaptable, 
 
 - 🌱 I’m currently learning immersive technology development at La plateforme, Marseille, France
 
-- 👨‍💻 All of my projects are available at [https://www.design-portal.fr/](https://www.design-portal.fr/)
+- 👨‍💻 All of my design projects from my old jobs are available at [https://www.design-portal.fr/](https://www.design-portal.fr/)
+
+- 😄 All of my projects from my new job are available (lots to come) at [https://olivier-portal.github.io/cyber-portal/](https://olivier-portal.github.io/cyber-portal/)
 
 - 📫 How to reach me **olivier.portal@laplateforme.io**
-
-- 😄 Nicknames : Oliv' / Lol / Dad d'amour
 
 - ⚡ Fun fact: Since I bought my first Raspberry Pi I'm transforming my home into a smart one 😄 .... Next project : making a smart touch screen mirror !!!
 
