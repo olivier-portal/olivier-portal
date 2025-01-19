@@ -1,6 +1,6 @@
 <h1 align="center">Hello world ! 👋</h1>
 
-<h3 align="center">Walking on the path to cybersecurity</h3>
+<h3 align="center">Walking on the path to immersive systems (VR/AR/MR/XR)</h3>
 
 <!--
 **olivier-portal/olivier-portal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](image/banner.png)](https://github.com/olivier-portal)
+[![MasterHead](image/bannerIS.png)](https://github.com/olivier-portal)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olivier-portal&label=Profile%20views&color=0e75b6&style=flat" alt="olivier-portal" /> </p>
 
@@ -28,17 +28,17 @@ Here are some ideas to get you started:
 
 With solid experience as an industrial designer, graphic designer, and web designer, I have always been involved in creating aesthetic and functional solutions. Every project I undertake is guided by a passion for detail and innovation, combining creativity and pragmatism to meet the needs of clients and users.
 
-## <span style="color:#D34591;">A new path towards cybersecurity</span>
+## <span style="color:#D34591;">A new path towards immersive technologies</span>
 
-Recently, I decided to take on a new challenge by resuming my studies in the field of IT, with a specialization in cybersecurity. This transition is motivated by my fascination with new technologies and the growing need to protect data in a digitalized world. This choice enriches my career as a designer with a unique perspective, combining security and design.
+Recently, I decided to take on a new challenge by resuming my studies in the field of IT, with a specialization in immersive technologies (VR, AR, MR, XR). This transition is motivated by my fascination with new technologies and the exciting possibilities they offer in terms of interactive and immersive experiences. This choice enriches my career as a designer, allowing me to merge creativity with cutting-edge technical skills.
 
 ## <span style="color:#d34591;">Objective: a work-study program to combine theory and practice
 
-Currently in the first year of an IT bachelor's degree specializing in cybersecurity, I am looking for a work-study program lasting one week in school and four weeks in a company. This experience would allow me to put my cybersecurity skills into practice, while benefiting from the support and advice of experts in the sector. Working in a company would also strengthen my understanding of security issues for real projects and allow me to make my contribution from the start of my training.
+Currently in the first year of an IT bachelor's degree specializing in immersive technologies, I am looking for a work-study program lasting one week in school and four weeks in a company. This experience would allow me to apply my skills in developing immersive systems, while benefiting from the support and advice of experts in the field. Working in a company would also strengthen my understanding of real-world applications in immersive technology and allow me to contribute from the beginning of my training.
 
 ## <span style="color:#d34591;">A polyvalent profile ready to invest
 
-With my background in industrial and digital design, I am polyvalent, adaptable and passionate about innovation. I bring a unique perspective that combines a developed aesthetic sense with a rigorous approach to IT security issues. By joining your team, I am ready to fully invest in bringing my skills to the table, while developing my expertise in a stimulating professional environment.
+With my background in industrial and digital design, I am versatile, adaptable, and passionate about innovation. I bring a unique perspective that combines a developed aesthetic sense with a solid understanding of immersive technologies. By joining your team, I am ready to fully invest in bringing my skills to the table, while developing my expertise in a stimulating professional environment.
 
 ---
 
@@ -50,7 +50,7 @@ With my background in industrial and digital design, I am polyvalent, adaptable 
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="image/python.png" alt="python" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="image/illustrator.png" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="image/photoshop.png" alt="photoshop" width="40" height="40"/> </a><a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="image/xd.png" alt="xd" width="40" height="40"/> </a> </p>
 
 ---
 
@@ -67,7 +67,7 @@ With my background in industrial and digital design, I am polyvalent, adaptable 
 
 ---
 
-- 🌱 I’m currently learning cybersecurity at La plateforme, Marseille, France
+- 🌱 I’m currently learning immersive technology development at La plateforme, Marseille, France
 
 - 👨‍💻 All of my projects are available at [https://www.design-portal.fr/](https://www.design-portal.fr/)
 
