@@ -1,3 +1,5 @@
+[![MasterHead](image/bannerIS.png)](https://github.com/olivier-portal)
+
 <h1 style="align: center">Hello world ! 👋</h1>
 
 <h3 style="align: center">Walking on the path to immersive systems (VR/AR/MR/XR)</h3>
@@ -16,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](image/bannerIS.png)](https://github.com/olivier-portal)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olivier-portal&label=Profile%20views&color=0e75b6&style=flat" alt="olivier-portal" /> </p>
 
