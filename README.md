@@ -58,7 +58,7 @@ With my background in industrial and digital design, I am versatile, adaptable, 
 
 <p><img style="align: left" src="https://github-readme-stats.vercel.app/api/top-langs?username=olivier-portal&show_icons=true&locale=en&layout=compact&theme=radical&exclude_repo=cyber-portal,fansiteOP&cache_seconds=60" alt="olivier-portal" /></p>
 
-<p>&nbsp;<img style="align: left" src="https://github-readme-stats.vercel.app/api?username=olivier-portal&show_icons=true&locale=en&layout=compact&theme=radical" alt="olivier-portal" /></p>
+<p><img style="align: left" src="https://github-readme-stats.vercel.app/api?username=olivier-portal&show_icons=true&locale=en&layout=compact&theme=radical" alt="olivier-portal" /></p>
 
 ---
 
