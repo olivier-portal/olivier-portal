@@ -84,6 +84,33 @@ With my background in industrial and digital design, I am versatile, adaptable, 
 
 # Portfolio :
 
+## software development :
+
+### Different projects :
+<section display="flex">
+<img style="align: center" src="image/dev/fruit_ninja_slicer.png" alt="Game Fruit Ninja Slicer" height="300" style= "margin: 5vw" />
+<img style="align: center" src="image/dev/le_pendu.png" alt="Game Hangman" height="300" style= "margin: 5vw" />
+<img style="align: center" src="image/dev/TicTacToe.png" alt="Game TicTacToe" height="300" style= "margin: 5vw" />
+<img style="align: center" src="image/dev/Horloge.png" alt="Clock software" height="300" style= "margin: 5vw" />
+<img style="align: center" src="image/dev/calculatrice.png" alt="Calculator software" height="300" style= "margin: 5vw" />
+</section>
+
+---
+
+## web integration :
+
+### Different projects :
+<section display="flex">
+<img style="align: center" src="image/dev/dextre.png" alt="Game Fruit Ninja Slicer" height="300" style= "margin: 5vw" />
+<img style="align: center" src="image/dev/escape_game.png" alt="Web site" height="300" style= "margin: 5vw" />
+<img style="align: center" src="image/dev/momob.png" alt="Web site" height="300" style= "margin: 5vw" />
+<img style="align: center" src="image/dev/bloom_petals.png" alt="Web site" height="300" style= "margin: 5vw" />
+<img style="align: center" src="image/dev/design-portal.png" alt="web site" height="300" style= "margin: 5vw" />
+<img style="align: center" src="image/dev/fan_site.png" alt="web site" height="300" style= "margin: 5vw" />
+</section>
+
+---
+
 ## Web design :
 
 ### For different clients :
@@ -93,6 +120,20 @@ With my background in industrial and digital design, I am versatile, adaptable, 
 <img style="align: center" src="image/web-design/pages mission Atelier de la peluche.jpg" alt="Graphic design" height="300" style= "margin: 5vw" />
 <img style="align: center" src="image/web-design/pages 404 Atelier de la peluche.jpg" alt="Graphic design" height="300" style= "margin: 5vw" />
 <img style="align: center" src="image/web-design/Momob.org2_.jpg" alt="Graphic design" height="300" style= "margin: 5vw" />
+</section>
+
+---
+
+## Graphic design :
+
+### For different clients :
+<section display="flex">
+<img style="align: center" src="image/graphisme/MOCKUP affiche Halloween.jpg" alt="Graphic design" height="200" style= "margin: 5vw"  />
+<img style="align: center" src="image/graphisme/étiquettes MODIS.png" alt="Graphic design" height="200" style= "margin: 5vw" />
+<img style="align: center" src="image/Projets-perso/Bijoutifull.jpg" alt="Graphic design" height="200" style= "margin: 5vw" />
+<img style="align: center" src="image/web-design/Pictogrammes-3.jpg" alt="Graphic design" height="200" style= "margin: 5vw" />
+<img style="align: center" src="image/web-design/Pictogrammes-4.jpg" alt="Graphic design" height="200" style= "margin: 5vw" />
+<img style="align: center" src="image/Projets-perso/Ephémères éternités.jpg" alt="Graphic design" height="200" style= "margin: 5vw" />
 </section>
 
 ---
@@ -143,16 +184,4 @@ With my background in industrial and digital design, I am versatile, adaptable, 
 </section>
 
 ---
-## Graphic design :
 
-### For different clients :
-<section display="flex">
-<img style="align: center" src="image/graphisme/MOCKUP affiche Halloween.jpg" alt="Graphic design" height="200" style= "margin: 5vw"  />
-<img style="align: center" src="image/graphisme/étiquettes MODIS.png" alt="Graphic design" height="200" style= "margin: 5vw" />
-<img style="align: center" src="image/Projets-perso/Bijoutifull.jpg" alt="Graphic design" height="200" style= "margin: 5vw" />
-<img style="align: center" src="image/web-design/Pictogrammes-3.jpg" alt="Graphic design" height="200" style= "margin: 5vw" />
-<img style="align: center" src="image/web-design/Pictogrammes-4.jpg" alt="Graphic design" height="200" style= "margin: 5vw" />
-<img style="align: center" src="image/Projets-perso/Ephémères éternités.jpg" alt="Graphic design" height="200" style= "margin: 5vw" />
-</section>
-
----
